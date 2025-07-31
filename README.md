@@ -22,3 +22,18 @@ This is a project about readme
 
 ### link
 Css Framework [Tailwindcss] (https://tailwindcss.com/)
+
+
+### list
+unorder list
+- one
+- Two
+    -apple
+    -banana
+
+---
+
+order list
+1. One
+2. Two
+3. Three
