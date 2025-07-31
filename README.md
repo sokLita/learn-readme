@@ -37,3 +37,32 @@ order list
 1. One
 2. Two
 3. Three
+
+---
+### Text style
+
+**Bold text**
+
+*Hello world*
+
+~~Delect text~~
+
+### block quote
+
+>Hello world
+
+### Table
+
+|id | name| Age|
+|----|----|----|
+|01 | June| 200|
+
+### Code
+```python
+for i in range(10):
+    print(i)
+```
+```html
+<h1>Heading</h1>
+
+
